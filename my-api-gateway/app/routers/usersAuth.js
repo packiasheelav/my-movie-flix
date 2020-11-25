@@ -17,9 +17,9 @@ const userjson = require('../../users.json');
  *          - user
  *      parameters:
  *          - name: useremail
- *            description: user email
+ *            description: user email. 
  *          - name: password
- *            description: user password
+ *            description: user password. 
  */
 
 router.post('/api/login', async (req, res) => {
