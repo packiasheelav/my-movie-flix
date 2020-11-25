@@ -1,0 +1,13 @@
+[
+    {
+        "id": "6dd4e8888",
+        "useremail": "admin@admin.com",
+        "password": "$2a$10$Fxx4e84b30jWrjYJ3M7te.HbMVIAcI9D8zmMZ08JbJ/PaUuTB0xFS",
+        "tokens" : [ 
+            {
+                "_id" : "6dd4e8888",
+                "token" : "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZkZDRlODg4OCIsImlhdCI6MTYwNjEzODUyMSwiZXhwIjoxNjM3Njc0NTIxfQ.d6QYlPCmXoWaR41qLW2Lzs5G-5iuq233oqkwxH8K7Xk"
+            }]
+        
+    }
+]
