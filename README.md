@@ -27,6 +27,8 @@ API gateway take care of API routing to microservices and User authentication.
    copy the response token
   ![Screenshot](login.png)
 - Call movie api example  http://localhost:8888/api/movies/genres with authorization token
+  
+  ![Screenshot](auth.png) 
   ![Screenshot](fetchmovies.PNG)
 
 
